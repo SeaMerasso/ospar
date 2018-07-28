@@ -4,7 +4,7 @@
     <title>Sea-Mer Asso</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="../style.css">
+    <link rel="stylesheet" href="style.css">
     
     <script type="text/javascript" src="../modules/Highcharts-6/code/jquery.min.js"></script>
     <script src="../modules/Highcharts-6/code/highcharts.js"></script>
